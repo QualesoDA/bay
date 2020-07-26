@@ -1,0 +1,165 @@
+
+  #resengo-booknow h3{
+    display: none;
+  }
+  
+  #resengo-booknow .extra-padding.no-margin.overflow-auto{
+    background: none !important;
+    padding: 0 !important;
+  }
+  
+  #resengo-booknow label, #resengo-booknow h4{
+    font-family: 'Libre Franklin', sans-serif !important;
+    font-size: 16px !important;
+    color: #EDEDED !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.12em !important;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown {
+    background-color: #0F0E1A;
+    border: 1px solid #EDEDED;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown-label{
+    color: #EDEDED;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown select {
+    
+  }
+  
+  #resengo-booknow .rds-dropdown-icon g path{
+    fill: #EDEDED;
+  }
+  
+  #resengo-booknow .stepper-footer{
+    display:none;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper ul.toggle-links li a {
+    color: #EDEDED;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper ul.toggle-links li a.active {
+    background-color: #EDEDED;
+    color: #0F0E1A;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker .ui-datepicker-header {
+    background-color: #161526 !important;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker .ui-datepicker-title {
+    color: #EDEDED !important;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker th{
+    background-color: #161526 !important;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker.ui-datepicker-inline.ui-widget-content{
+    border: 1px solid #EDEDED;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody .ui-state-disabled {
+    background-color: #0F0E1A;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td {
+    background-color: #0F0E1A;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-default, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-active, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-active.ui-state-default{
+    background-color: #0F0E1A !important;
+    color: #EDEDED !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-default::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-active::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.available a.ui-state-active.ui-state-default::before{
+    border-color: #EDEDED !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline>span, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-default, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-active, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-active.ui-state-default{
+    background-color: #0F0E1A !important;
+    color: #EDEDED !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline>span::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-default::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-active::before, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td.offline a.ui-state-active.ui-state-default::before{
+    border-color: #EDEDED !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper button.white, #resengo-process-flow>#resengo-wrapper input[type="button"].white, #resengo-process-flow>#resengo-wrapper .button.white, #resengo-process-flow>#resengo-wrapper input[type="submit"].white, #resengo-process-flow>#resengo-wrapper dl.tabs dt.white, #resengo-process-flow>#resengo-wrapper dl.accordion dt.white, #resengo-process-flow>#resengo-wrapper .link-fb.white{
+    color: #EDEDED !important;
+    background-color: #0F0E1A !important;
+    border: 1px solid #EDEDED !important;
+    margin-top: -1px;
+    border-collapse: collapse;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper button.hour.white svg.icon.next {
+    fill: #EDEDED !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper button.wide, #resengo-process-flow>#resengo-wrapper input[type="button"].wide, #resengo-process-flow>#resengo-wrapper .button.wide, #resengo-process-flow>#resengo-wrapper input[type="submit"].wide, #resengo-process-flow>#resengo-wrapper dl.tabs dt.wide, #resengo-process-flow>#resengo-wrapper dl.accordion dt.wide, #resengo-process-flow>#resengo-wrapper .link-fb.wide{
+    margin-bottom: 0 !important;
+  }
+  
+  .stepper{
+    display: none !important;
+  }
+  
+  #resengo-booknow #resengo-process-flow>#resengo-wrapper .dark-blue-box.status-bar {
+    background-color: #0F0E1A;
+    border-top: 1px solid #EDEDED;
+    border-bottom: 1px solid #EDEDED;
+    margin-bottom: 
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .light-blue-box.extra-padding, #resengo-process-flow>#resengo-wrapper .dark-blue-box.extra-padding, #resengo-process-flow>#resengo-wrapper .dark-grey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .grey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .ligrey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .white-box.extra-padding, #resengo-process-flow>#resengo-wrapper .red-box.extra-padding, #resengo-process-flow>#resengo-wrapper .shadow-box.extra-padding{
+  background: #0F0E1A !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .light-blue-box.extra-padding, #resengo-process-flow>#resengo-wrapper .dark-blue-box.extra-padding, #resengo-process-flow>#resengo-wrapper .dark-grey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .grey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .ligrey-box.extra-padding, #resengo-process-flow>#resengo-wrapper .white-box.extra-padding, #resengo-process-flow>#resengo-wrapper .red-box.extra-padding, #resengo-process-flow>#resengo-wrapper .shadow-box.extra-padding{
+    padding: 0 !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper .extra-padding{
+    padding: 0 !important;
+  }
+  
+  .customer-links{
+    display: none !important;
+  }
+  
+  #resengo-process-flow>#resengo-wrapper select, #resengo-process-flow>#resengo-wrapper textarea, #resengo-process-flow>#resengo-wrapper input[type="text"], #resengo-process-flow>#resengo-wrapper input[type="password"], #resengo-process-flow>#resengo-wrapper input[type="datetime"], #resengo-process-flow>#resengo-wrapper input[type="datetime-local"], #resengo-process-flow>#resengo-wrapper input[type="date"], #resengo-process-flow>#resengo-wrapper input[type="month"], #resengo-process-flow>#resengo-wrapper input[type="time"], #resengo-process-flow>#resengo-wrapper input[type="week"], #resengo-process-flow>#resengo-wrapper input[type="number"], #resengo-process-flow>#resengo-wrapper input[type="email"], #resengo-process-flow>#resengo-wrapper input[type="url"], #resengo-process-flow>#resengo-wrapper input[type="search"], #resengo-process-flow>#resengo-wrapper input[type="tel"], #resengo-process-flow>#resengo-wrapper input[type="color"], #resengo-process-flow>#resengo-wrapper .uneditable-input{
+    background-color: #0F0E1A !important;
+    border: 1px solid #EDEDED !important;
+    text-align: center;
+    color: #EDEDED !important;
+    
+  }
+  
+  #resengo-process-flow>#resengo-wrapper select::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper textarea::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="text"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="password"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime-local"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="date"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="month"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="time"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="week"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="number"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="email"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="url"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="search"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="tel"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="color"]::-webkit-input-placeholder,#resengo-process-flow>#resengo-wrapper .uneditable-input::-webkit-input-placeholder{
+	color:#727F8E;
+	position:relative
+}
+#resengo-process-flow>#resengo-wrapper select:-moz-placeholder,#resengo-process-flow>#resengo-wrapper textarea:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="text"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="password"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime-local"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="date"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="month"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="time"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="week"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="number"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="email"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="url"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="search"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="tel"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="color"]:-moz-placeholder,#resengo-process-flow>#resengo-wrapper .uneditable-input:-moz-placeholder{
+	opacity:1;
+	color:#161526;
+	position:relative
+}
+#resengo-process-flow>#resengo-wrapper select::-moz-placeholder,#resengo-process-flow>#resengo-wrapper textarea::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="text"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="password"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime-local"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="date"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="month"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="time"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="week"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="number"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="email"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="url"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="search"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="tel"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper input[type="color"]::-moz-placeholder,#resengo-process-flow>#resengo-wrapper .uneditable-input::-moz-placeholder{
+	opacity:1;
+	color:#161526;
+	position:relative
+}
+#resengo-process-flow>#resengo-wrapper select:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper textarea:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="text"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="password"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime-local"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="date"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="month"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="time"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="week"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="number"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="email"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="url"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="search"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="tel"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper input[type="color"]:-ms-input-placeholder,#resengo-process-flow>#resengo-wrapper .uneditable-input:-ms-input-placeholder{
+	opacity:1;
+	color:#161526;
+	position:relative
+}
+#resengo-process-flow>#resengo-wrapper select::placeholder,#resengo-process-flow>#resengo-wrapper textarea::placeholder,#resengo-process-flow>#resengo-wrapper input[type="text"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="password"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="datetime-local"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="date"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="month"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="time"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="week"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="number"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="email"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="url"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="search"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="tel"]::placeholder,#resengo-process-flow>#resengo-wrapper input[type="color"]::placeholder,#resengo-process-flow>#resengo-wrapper .uneditable-input::placeholder{
+	opacity:1;
+	color:#161526;
+	position:relative
+}
